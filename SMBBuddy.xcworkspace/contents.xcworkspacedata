@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:AMSMB2/AMSMB2.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SMBKit/SMBKit.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SMBBuddy/SMBBuddy.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:LICENSE">
+   </FileRef>
+   <FileRef
+      location = "group:README.md">
+   </FileRef>
+</Workspace>
